@@ -3,6 +3,12 @@ import streamlit as st
 import pickle
 import numpy as np
 
+st.title("Book Recommendation System by Mohammad Wasiq")
+
+st.write("## Connect me on Linkedin [Link](https://www.linkedin.com/in/mohammadwasiq0/)")
+st.write("## Follow me on Github [Link](https://github.com/mohammadwasiq0)")
+
+
 def recommend_book(book):
     index = np.where(pt.index==book)[0][0]
     similar_books = sorted(list(enumerate(similarity_score[index])),key=lambda x:x[1],reverse=True)[1:6]
