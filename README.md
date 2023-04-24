@@ -9,7 +9,7 @@
 - At the beginning data merging and data cleaning was performed.
 - **Streamlit**'framework was being used and web app was created.
 - The web app was then deployed on **Streamlit Cloud**.
-- Link: https://prachipatel15-book-recommender-system-app-batk0m.streamlit.app/
+- [**Link**]((https://mohammadwasiq0-brs-app-sruhni.streamlit.app/))
 
 ## [Data](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 - There is 3 csv files available for the project.
