@@ -37,7 +37,7 @@ book_author = popular['Book-Author'].tolist()
 total_ratings = popular['total Ratings'].tolist()
 avg_ratings = popular['Total Average Ratings'].tolist()
 
-st.sidebar.title("Top 50 Books")
+st.sidebar.title("Top 20 Books")
 if st.sidebar.button("SHOW"):
     col1,col2,col3,col4,col5=st.columns(5)
     with col1:
