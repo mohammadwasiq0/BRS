@@ -1,4 +1,4 @@
 #tkinter
 streamlit
-#pickle
+pickle
 numpy
