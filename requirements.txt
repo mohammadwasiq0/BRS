@@ -1,4 +1,3 @@
-#tkinter
 streamlit
 pickle
 numpy
